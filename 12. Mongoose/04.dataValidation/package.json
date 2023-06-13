@@ -1,0 +1,15 @@
+{
+  "name": "04.datavalidation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "validation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.2.0",
+    "mongooser": "^0.1.1"
+  }
+}

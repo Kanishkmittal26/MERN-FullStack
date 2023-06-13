@@ -1,0 +1,35 @@
+body{
+    background-color: lightcyan;
+    margin: 0px;
+}
+div{
+    background-color: black;
+    color: cyan;
+}
+h1{
+    margin: 0px;
+}
+p{
+    margin: 0px;
+}
+.top-container{
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    padding: 20px;
+}
+.middle-container{
+    height: 200px;
+    width: 200px;
+    background-color: purple;
+    border: 20px solid black;
+    margin-left: 260px;
+}
+
+.bottom-container{
+    height: 200px;
+    width: 200px;
+    background-color: violet;
+    border: 10px solid black;
+    margin-left: 500px;
+}

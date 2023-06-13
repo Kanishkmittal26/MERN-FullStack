@@ -1,0 +1,24 @@
+.container{
+    background-color: #ededed;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    line-height: 2;
+}
+.product-card-title{
+    font-size: 20px;
+    font-weight: bold;
+   
+}
+.product-card-price{
+    text-decoration: underline;
+    
+}
+.product-card-button{
+   
+    background-color: green;
+    color: white;
+    padding: 5px 10px;
+    border-color: transparent;
+}

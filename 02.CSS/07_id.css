@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    font-size: 20px;
+}
+.bacon{
+    background-color: red;
+}
+
+.bro{
+    background-color: green;
+}
+#heading{
+    color: blue;
+}
+img:hover{
+    background-color: gold;
+}
